@@ -1,4 +1,4 @@
-Goal - The goal of the program is to be a game reviewer system that users can login to, view games and their scores and reviews, see their profile, make reviews and see their own reviews. An alternative goal is also for their to be a moderator of the system that can add games, remove games, remove users, and remove specefic reviews of certain games.
+Goal - The goal of the program is to be simulate a game reviewer system that users can login to, view games and their scores and reviews, see their profile, make reviews and see their own reviews. An alternative goal is also for their to be a moderator of the system that can add games, remove games, remove users, and remove specefic reviews of certain games.
 Input - The program takes many inputs such as when the user creates their account, logins, makes reviews, changes thier username and so on. The moderator also can make inputs like adding games.
 Output - The output of the program is to be a GUI that displays games and users data and in a compact but simple way, it also is to dynamically update according to the object's attributes.
 Steps -
